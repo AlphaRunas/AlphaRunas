@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- ⚡ Fun fact: "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it, it blows your whole leg off."
+
+<img src="https://www.codewars.com/users/AlphaRunas/badges/large" alt="My Codwars Badge" />
+
 <!--
 **AlphaRunas/AlphaRunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
